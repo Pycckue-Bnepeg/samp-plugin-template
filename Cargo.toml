@@ -1,0 +1,10 @@
+[package]
+name = "plugin-template"
+version = "0.1.0"
+authors = ["ZOTTCE <zottce@gmail.com>"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+samp-sdk = "0.8.1"
